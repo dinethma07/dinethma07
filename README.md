@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinethma07
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C++ Language
+- 🌱 Ask me about Java,C++,Javascript 
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me dadikari07@gmail.com
 
